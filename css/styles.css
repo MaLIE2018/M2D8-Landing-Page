@@ -7,7 +7,7 @@
  
  .e1 {
      height: 400px;
-     border: 2px solid black;
+     border: 2px solid #000000;
      border-radius: 50px;
  }
  
@@ -23,3 +23,6 @@
  body>div.container.exercises>div.container>div>div.col-2.d-flex.flex-column>div:nth-child(3) {
      border-bottom-right-radius: 50px;
  }
+ /*------------------------------------*\
+                #e2
+\*------------------------------------*/
