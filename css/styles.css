@@ -10,3 +10,16 @@
      border: 2px solid black;
      border-radius: 50px;
  }
+ 
+ body>div.container.exercises>div.container>div>div.col-7.bg-success.d-flex.justify-content-center.align-items-center {
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+ }
+ 
+ body>div.container.exercises>div.container>div>div.col-2.d-flex.flex-column>div:nth-child(1) {
+     border-top-right-radius: 50px;
+ }
+ 
+ body>div.container.exercises>div.container>div>div.col-2.d-flex.flex-column>div:nth-child(3) {
+     border-bottom-right-radius: 50px;
+ }
